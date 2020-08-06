@@ -1,4 +1,9 @@
-### Howdy!
+## Howdy!
+
+
+![hit counter](http://profile-counter.glitch.me/powens/count.svg)
+
+### Notes
 
 - 🔭 I’m currently working on getting this README up and running, as well as [painting up a Warhammer 40k army](https://www.padraig.io/project-log) during the pandemic.
 - 🌱 I’m currently learning Golang
