@@ -1,17 +1,17 @@
-## Howdy!
+## Hi, I'm Patrick 👋
 
-
-![hit counter](http://profile-counter.glitch.me/powens/count.svg)
-
-### Github Stats
-
-[![powens's GitHub stats](https://github-readme-stats.vercel.app/api?username=powens)](https://github.com/powens/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powens&hide_progress=true)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ### What I'm up to
 
-- I'm currently working on [painting up several Warhammer 40k armies](https://www.padraig.io/project-log)
-- I’m currently learning Golang
-- 👯 I’m looking to collaborate on any open source projects 
-- 📫 How to reach me: I've purged myself from all social media. So [raising an issue](https://github.com/powens/powens/issues) might be best.
+- 🎨 Painting up several Warhammer 40k armies
+- 🤖 Learning agentic AI — LLM tooling, agents, and whatever comes next
+- 👯 Looking to collaborate on open source projects
+
+### Get in touch
+
+- 📫 No social media. Best way is [raising an issue](https://github.com/powens/powens/issues) on this repo.
